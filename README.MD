@@ -1,4 +1,4 @@
-\# Data Analysis Postgraduate Sprint at PUC-Rio
+# Data Analysis Postgraduate Sprint at PUC-Rio
 
 
 
