@@ -1,0 +1,4 @@
+https://www.kaggle.com/datasets/abecklas/fifa-world-cup/data 
+https://www.kaggle.com/datasets/colearninglounge/predicting-pulsar-starintermediate
+https://www.kaggle.com/datasets/jayjoshi37/ev-charging-station-usage-and-grid-load-analysis/data
+https://www.kaggle.com/datasets/haseebindata/student-performance-predictions
