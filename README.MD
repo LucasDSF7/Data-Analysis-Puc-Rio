@@ -2,7 +2,7 @@
 
 **Dataset:** [IA Jobs Market 2025 and 2026](https://www.kaggle.com/datasets/alitaqishah/ai-jobs-market-2025-2026-salaries)
 
-**Colab MVP:** https://colab.research.google.com/github/LucasDSF7/Data-Analysis-Puc-Rio/blob/master/ia_jobs_market.ipynb
+**Colab MVP:** [Notebook Colab do MVP](https://colab.research.google.com/github/LucasDSF7/Data-Analysis-Puc-Rio/blob/master/ia_jobs_market.ipynb)
 
 ## MVP: Análise de Dados e Boas Práticas — PUC-Rio
 
@@ -56,6 +56,7 @@ Principais técnicas aplicadas:
 
 ## Estrutura do Repositório
 
+```
 📁 DATA-ANALYSIS-PUC-RIO/
 │-- 📂 data_exploratory_analysis_and_pre_processing/  # Pasta com exercícios das aulas da disciplina EDA e Pre Processing
 │-- 📂 data_visualization/                            # Pasta com exercícios das aulas da disciplina Data Visualization
@@ -63,6 +64,7 @@ Principais técnicas aplicadas:
 │-- 📄 ia_jobs_market.ipynb                           # Link Google Colab do notebook do MVP
 │-- 📄 README.md                                      # Documentação do projeto
 │-- 📄 requiriments.txt                               # Dependências do projeto
+```
 
 ## Instalação de Dependências
 
